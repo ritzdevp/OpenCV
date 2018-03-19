@@ -1,15 +1,19 @@
 # OpenCV
-##Image and Video Processing 
+## Image and Video Processing 
 ### Thresholding Examples
 
-Original Image
+# Original Image
+
 ![alt text](https://raw.githubusercontent.com/ritzdevp/OpenCV/master/original.jpg)
 
-Binary Thresholding
+# Binary Thresholding
+
 ![alt text](https://raw.githubusercontent.com/ritzdevp/OpenCV/master/threshbinary.jpg)
 
-Grayscaled Binary Thresholing
+# Grayscaled Binary Thresholing
+
 ![alt text](https://raw.githubusercontent.com/ritzdevp/OpenCV/master/threshbinarygrayscaled.jpg)
 
-Gaussian Adaptive Thresholding
+# Gaussian Adaptive Thresholding
+
 ![alt text](https://raw.githubusercontent.com/ritzdevp/OpenCV/master/gaussian_adaptivethresh.jpg)
