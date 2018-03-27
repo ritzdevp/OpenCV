@@ -29,3 +29,7 @@
 ![alt text](https://raw.githubusercontent.com/ritzdevp/OpenCV/master/detectedcorners.jpg)
 
 
+## Face And Eye Detections Using Haar Cascades
+
+### Code (IPython and Haar XMLs) in  repo.
+
