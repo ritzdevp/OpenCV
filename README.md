@@ -17,3 +17,15 @@
 # Gaussian Adaptive Thresholding
 
 ![alt text](https://raw.githubusercontent.com/ritzdevp/OpenCV/master/gaussian_adaptivethresh.jpg)
+
+## Corner Detection
+
+### Image
+
+![alt text](https://raw.githubusercontent.com/ritzdevp/OpenCV/master/edges.jpg)
+
+### Detected Corners
+
+![alt text](https://raw.githubusercontent.com/ritzdevp/OpenCV/master/detectedcorners.jpg)
+
+
